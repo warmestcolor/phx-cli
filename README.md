@@ -1,4 +1,8 @@
-# Giver
+# Giver-Cli
+* User Accounts
+* WeChat Miniapp authentication
+* Jwt (in header: < authentication: Bearer [token] >)
+* Postgresql
 
 To start your Phoenix server:
 
@@ -6,7 +10,7 @@ To start your Phoenix server:
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   * Start Phoenix endpoint with `mix phx.server`
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Now you can visit [`localhost:4010`](http://localhost:4010) from your browser.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
