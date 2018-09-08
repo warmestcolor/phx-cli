@@ -1,0 +1,9 @@
+export GIVER_DB_HOST=localhost
+export GIVER_DB_USER=postgres
+export GIVER_DB_PASSWORD=postgres
+export GIVER_DB_NAME=giver
+export GIVER_DB_PORT=5432
+export GIVER_WEB_PORT=4010
+
+export WECHAT_MINIAPP_APPID=
+export WECHAT_MINIAPP_SECRET=
