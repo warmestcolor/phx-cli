@@ -1,8 +1,10 @@
-# Giver-Cli
-* User Accounts
-* WeChat Miniapp authentication
-* Jwt (in header: < authentication: Bearer [token] >)
-* Postgresql
+# Phoenix-Cli
+Contains:
+
+  * User Accounts
+  * WeChat Miniapp authentication
+  * Jwt (in header: < authentication: Bearer [token] >)
+  * Postgresql
 
 To start your Phoenix server:
 
